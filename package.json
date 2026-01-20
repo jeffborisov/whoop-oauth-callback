@@ -1,0 +1,5 @@
+{
+  "name": "whoop-oauth-callback",
+  "main": "callback.js",
+  "dependencies": { "express": "^4.18.2" }
+}
